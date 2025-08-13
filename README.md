@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm Florence Kigehi 👋</h1>
 
 <p align="center">
+  <img src="assets/mylogo.png" alt="Florence Kigehi Logo" width="150"/>
+</p>
+
+
+<p align="center">
   <i>Proficient Frontend Web Developer | ALX Software Engineering(FrontEnd Web Development , Prodev FrontEnd Web Development) Graduate | ALX Cybersecurity Graduate | ALX AI Career Essentials Graduate | Woman in Tech | Cybersecurity Enthusiast</i>
 </p>
 
