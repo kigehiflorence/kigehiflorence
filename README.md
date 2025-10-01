@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <i> Software Engineer | Proficient Frontend Web Developer | ALX Software Engineering(FrontEnd Web Development , Prodev FrontEnd Web Development) Graduate | ALX Cybersecurity Graduate | ALX AI Career Essentials Graduate | Woman in Tech | Cybersecurity Enthusiast</i>
+  <i> Software Engineer | Proficient Frontend Web Developer | ALX Software Engineering(FrontEnd Web Development , Prodev FrontEnd Web Development) Graduate | ALX Cybersecurity Graduate | ALX AI Career Essentials Graduate | Woman in Tech | Kibabii University Computer Science Graduate | Cybersecurity Enthusiast</i>
 </p>
 
 ---
