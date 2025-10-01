@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <i>Proficient Frontend Web Developer | ALX Software Engineering(FrontEnd Web Development , Prodev FrontEnd Web Development) Graduate | ALX Cybersecurity Graduate | ALX AI Career Essentials Graduate | Woman in Tech | Cybersecurity Enthusiast</i>
+  <i> Software Engineer | Proficient Frontend Web Developer | ALX Software Engineering(FrontEnd Web Development , Prodev FrontEnd Web Development) Graduate | ALX Cybersecurity Graduate | ALX AI Career Essentials Graduate | Woman in Tech | Cybersecurity Enthusiast</i>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 🚀 My skill set includes:
 - **Frontend**: HTML5 / CSS3 / JavaScript ES6+ / Responsive Web Design / React  
-- **Backend (Basic)**: Node.js / Express.js / MongoDB
+- **Backend (Basic)**: Node.js / Express.js / MongoDB / Python
 - **Cybersecurity**: Secure Web Development Practices / Vulnerability Scanning / Network Security Fundamentals  
 
 🌍 I believe in collaboration, empathy, and building tech for people, not just screens.
