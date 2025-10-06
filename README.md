@@ -18,7 +18,7 @@
 🌱 My mission is to be one of the **greatest women in tech**, creating user-friendly, visually stunning web applications and experiences while ensuring they’re secure and resilient against threats.  
 
 🚀 My skill set includes:
-- **Frontend**: HTML5 / CSS3 / JavaScript ES6+ / Responsive Web Design / React / WordPress Developer
+- **Frontend**: HTML5 / CSS3 / JavaScript ES6+ / Responsive Web Design / React / WordPress
 - **Backend (Basic)**: Node.js / Express.js / MongoDB / Python / PHP
 - **Cybersecurity**: Secure Web Development Practices / Vulnerability Scanning / Network Security Fundamentals  
 
