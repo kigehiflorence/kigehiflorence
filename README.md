@@ -18,8 +18,8 @@
 🌱 My mission is to be one of the **greatest women in tech**, creating user-friendly, visually stunning web applications and experiences while ensuring they’re secure and resilient against threats.  
 
 🚀 My skill set includes:
-- **Frontend**: HTML5 / CSS3 / JavaScript ES6+ / Responsive Web Design / React  
-- **Backend (Basic)**: Node.js / Express.js / MongoDB / Python
+- **Frontend**: HTML5 / CSS3 / JavaScript ES6+ / Responsive Web Design / React / WordPress Developer
+- **Backend (Basic)**: Node.js / Express.js / MongoDB / Python / PHP
 - **Cybersecurity**: Secure Web Development Practices / Vulnerability Scanning / Network Security Fundamentals  
 
 🌍 I believe in collaboration, empathy, and building tech for people, not just screens.
@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive-design&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-Powered-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Powered Badge" />
+
   
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -84,7 +86,8 @@
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/RESTful%20Web%20Services-FF6C37?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Version%20Control%20(Git)-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
