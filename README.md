@@ -1,4 +1,13 @@
-<h2 align="center">Florence Kigehi</h2>
+<p align="left">
+  <img src="assets/mylogo.png" alt="Florence Kigehi Logo" width="150"/>
+</p>
+
+<h1 align="left">Florence Kigehi</h1>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/florence-kigehi-3401a1316" target="_blank">LinkedIn</a> •
+  <a href="mailto:florencekigehi@gmail.com">Email</a>
+</p>
 
 <br>
 
@@ -9,7 +18,8 @@
 
 <br>
 
-## 🛠 Languages and Tools
+<h2 align="left">🛠 Languages and Tools</h2>
+
 ---
 
 <p align="left">
