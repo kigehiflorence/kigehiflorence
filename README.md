@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Florence Kigehi 👋</h1>
+<h1 align="center">Florence Kigehi</h1>
 
 <p align="center">
   <img src="assets/mylogo.png" alt="Florence Kigehi Logo" width="150"/>
