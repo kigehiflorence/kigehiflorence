@@ -13,7 +13,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kigehiflorence&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/wakatime-1,168%20hrs%204%20mins-blue?logo=wakatime&style=flat" alt="Wakatime" />
+  <img src="https://img.shields.io/badge/wakatime-1,168%20hrs%204%20mins-blue?logo=codingtime&style=flat" alt="codingtime" />
 </p>
 
 <br>
